@@ -1,2 +1,2 @@
 # BasicLicensing
-A basic licensing system in Java
+A basic HWID licensing system in Java using Sockets
